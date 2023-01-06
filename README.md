@@ -45,9 +45,12 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=YusuCoder&&theme=xcode)](https://github.com/YusuCoder)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YusuCoder&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="YusuCoder" /></p>
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/2-most-commit-language.svg)
+  
+  <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YusuCoder&show_icons=true&locale=en&layout=compact" alt="Rustam___" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YusuCoder&show_icons=true&locale=en&theme=tokyonight" alt="YusuCoder" /></p>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YusuCoder&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YusuCoder&&theme=tokyonight" alt="YusuCoder" /></p>
 
