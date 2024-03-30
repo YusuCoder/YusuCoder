@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/RustamYusupovv" target="blank"><img src="https://img.shields.io/twitter/follow/RustamYusupovv?logo=twitter&style=for-the-badge" alt="RustamYusupovv" /></a> </p>
 
-- 🔭 I’m currently working on **Shopping Android App**
+- 🔭 I’m currently working on **Projects using C**
 
-- 🌱 I’m currently learning **IOS Development**
+- 🌱 I’m currently learning **C/C++ at 42Heilbronn**
 
 - 💬 Ask me about **Android , Database, UI/UX**
 
