@@ -1,4 +1,6 @@
-[![MasterHead](https://giphy.com/gifs/technoir-movie-film-cinemagraph-zXmbOaTpbY6mA)](https://github.com/YusuCoder/)
+<a href="https://github.com/YusuCoder/">
+  <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" alt="MasterHead" width="2000" height="600">
+</a>
 <h1 align="center">Hi 👋, I'm Rustam</h1>
 <h3 align="center">A passionate Android developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
