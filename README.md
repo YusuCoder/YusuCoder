@@ -1,5 +1,5 @@
 <a href="https://github.com/YusuCoder/">
-  <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" alt="MasterHead" width="2000" height="600">
+  <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" alt="MasterHead" width="2000" height="300">
 </a>
 <h1 align="center">Hi 👋, I'm Rustam</h1>
 <h3 align="center">A passionate Android developer from Uzbekistan</h3>
