@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif)](https://github.com/YusuCoder/)
+[![MasterHead](https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif)](https://github.com/YusuCoder/){:height="600px" width="2000px"}
 <h1 align="center">Hi 👋, I'm Rustam</h1>
 <h3 align="center">A passionate Android developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
