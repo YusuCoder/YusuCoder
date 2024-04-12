@@ -40,9 +40,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
-
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=YusuCoder&&theme=xcode)](https://github.com/YusuCoder)
-
 ![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/2-most-commit-language.svg)
   
   <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YusuCoder&show_icons=true&locale=en&layout=compact" alt="Rustam___" /></p>
