@@ -46,6 +46,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YusuCoder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="170" alt="Top Languages" />
 </div>
 
+<img align="center" src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
 
 
 [web]: https://yusucoder.vercel.app/
