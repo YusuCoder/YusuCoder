@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="MasterHead" width="1500">
 </a>
 <h1 align="center">Hi 👋, I'm Rustam</h1>
-<h3 align="center">A passionate Android developer from Uzbekistan</h3>
-<img align="right" alt="Coding" width="400" height="270" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<h3 align="center">A passionate Software developer from Uzbekistan</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YusuCoder&label=Profile%20views&color=0e75b6&style=flat" alt="YusuCoder" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ryusupov788@gmail.com**
 
-- ⚡ Fun fact **I am too serious;)**
+- ⚡ Code is like humor...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
