@@ -3,7 +3,7 @@
 </a>
 <h1 align="center">Hi 👋, I'm Rustam</h1>
 <h3 align="center">A passionate Android developer from Uzbekistan</h3>
-<img align="right" alt="Coding" width="400" height="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" alt="Coding" width="400" height="270" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YusuCoder&label=Profile%20views&color=0e75b6&style=flat" alt="YusuCoder" /> </p>
 
@@ -41,9 +41,9 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusuCoder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusuCoder&theme=tokyonight" height="150" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YusuCoder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YusuCoder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusuCoder&theme=tokyonight" height="170" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YusuCoder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="170" alt="Top Languages" />
 </div>
 
 
