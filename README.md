@@ -5,7 +5,6 @@
 <h3 align="center">A passionate Android developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YusuCoder&label=Profile%20views&color=0e75b6&style=flat" alt="YusuCoder" /> </p>
 
 <p align="left"> <a href="https://twitter.com/RustamYusupovv" target="blank"><img src="https://img.shields.io/twitter/follow/RustamYusupovv?logo=twitter&style=for-the-badge" alt="RustamYusupovv" /></a> </p>
@@ -40,16 +39,16 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/2-most-commit-language.svg)
-  
-  <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YusuCoder&show_icons=true&locale=en&layout=compact" alt="Rustam___" /></p>
 
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YusuCoder&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YusuCoder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="200" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusuCoder&theme=tokyonight" height="200" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YusuCoder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="200" alt="Top Languages" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YusuCoder&&theme=tokyonight" alt="YusuCoder" /></p>
 
-[portfolio]: https://yusucoder.vercel.app/?fbclid=PAAaa0swCpwrgYvaDmuHw8UsfgYyePol_NBwFAbKS4dQMSl1jbZIJUEcK96Bc
+
+[web]: https://yusucoder.vercel.app/
 [twitter]: https://twitter.com/RustamYusupovv
 [instagram]: https://www.instagram.com/r.ilhomovic/
 [linkedin]: https://www.linkedin.com/in/rustam-yusupov-1b0693226/
