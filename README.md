@@ -13,8 +13,6 @@
 
 - 🌱 I’m currently learning **C/C++ at 42Heilbronn**
 
-- 💬 Ask me about **Android , Database, UI/UX**
-
 - 📫 How to reach me **ryusupov788@gmail.com**
 
 - ⚡ Code is like humor...
