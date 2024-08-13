@@ -37,7 +37,9 @@
 <h3 align="left">Operating Systems:</h3>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=17843&format=png&color=000000" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" alt="linux" width="40" height="40"/> </a>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YusuCoder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="170" alt="GitHub Stats" />
