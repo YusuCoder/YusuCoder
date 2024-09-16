@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/RustamYusupovv" target="blank"><img src="https://img.shields.io/twitter/follow/RustamYusupovv?logo=twitter&style=for-the-badge" alt="RustamYusupovv" /></a> </p>
 
-- 🔭 I’m currently working on **Minishell project in C**
+- 🔭 I’m currently working on **Cub3D project in C**
 
 - 🌱 I’m currently learning **C/C++ at 42Heilbronn**
 
