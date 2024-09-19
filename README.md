@@ -43,7 +43,7 @@
 
 <h3 align="left">🔥 My Recent Projects:</h3>
 <ul>
-  <li align="left"><a href="https://github.com/YusuCoder/cub3d" target="_blank">Cub3D Project</a> - A raycasting game engine built in <strong>C</strong>.</li>
+  <li align="left"><a href="https://github.com/YusuCoder/cub3d" target="_blank">Cub3D Project</a> - A raycasting 3D game engine built in <strong>C</strong>.</li>
   <li align="left"><a href="https://github.com/YusuCoder/minishell" target="_blank">Mini-Shell Projects</a> - A small version of Shell <strong>C</strong>.</li>
   <li align="left"><a href="https://github.com/YusuCoder/portfolio" target="_blank">Portfolio Website</a> - My personal website with all my works and projects.</li><br>
 </ul>
