@@ -40,19 +40,19 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" alt="linux" width="40" height="40"/> </a>
 
 ###
-<div align="left">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YusuCoder&theme=high-contrast" height="165" alt="GitHub Activity Graph" />
 </div>
-<div align="left">
+<div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YusuCoder&card_width=200&theme=dark" height="135" alt="Profile Summary Card" />
 </div>
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YusuCoder&card_width=615&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
 </div>
-<div align="left">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusuCoder&card_width=615&theme=dark" height="150" alt="GitHub Streak Stats" />
 </div>
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YusuCoder&locale=en&hide_title=false&layout=compact&card_width=522&langs_count=5&theme=dark&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
