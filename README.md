@@ -40,16 +40,15 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" alt="linux" width="40" height="40"/> </a>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusuCoder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusuCoder&theme=tokyonight" height="170" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YusuCoder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="170" alt="Top Languages" />
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YusuCoder&theme=react-dark" height="250" alt="GitHub Activity Graph" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YusuCoder&theme=github_dark" height="205" alt="Profile Summary Card" />
 </div>
-
-<img align="center" src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YusuCoder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusuCoder&theme=tokyonight" height="150" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YusuCoder&locale=en&hide_title=false&layout=compact&card_width=700&langs_count=5&theme=tokyonight&hide_border=false" height="170" alt="Top Languages" />
+</div>
 
 [web]: https://yusucoder.vercel.app/
 [twitter]: https://twitter.com/RustamYusupovv
