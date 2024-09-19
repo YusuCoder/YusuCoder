@@ -41,13 +41,19 @@
 
 ###
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YusuCoder&theme=react-dark" height="250" alt="GitHub Activity Graph" />
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YusuCoder&theme=github_dark" height="205" alt="Profile Summary Card" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YusuCoder&theme=react-dark" height="160" alt="GitHub Activity Graph" />
 </div>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusuCoder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusuCoder&theme=tokyonight" height="150" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YusuCoder&locale=en&hide_title=false&layout=compact&card_width=700&langs_count=5&theme=tokyonight&hide_border=false" height="170" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YusuCoder&card_width=200&theme=github_dark" height="135" alt="Profile Summary Card" />
+</div>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YusuCoder&card_width=600&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+</div>
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusuCoder&card_width=600&theme=tokyonight" height="150" alt="GitHub Streak Stats" />
+</div>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YusuCoder&locale=en&hide_title=false&layout=compact&card_width=510&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
 [web]: https://yusucoder.vercel.app/
