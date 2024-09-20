@@ -65,24 +65,18 @@
 </p>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YusuCoder&theme=high-contrast" height="165" alt="GitHub Activity Graph" />
-</div>
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YusuCoder&card_width=200&theme=dark" height="135" alt="Profile Summary Card" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusuCoder&card_width=615&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusuCoder&card_width=615&theme=dark" height="150" alt="GitHub Streak Stats" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YusuCoder&locale=en&hide_title=false&layout=compact&card_width=522&langs_count=5&theme=dark&hide_border=false" height="150" alt="Top Languages" />
-</div>
-
 [web]: https://yusucoder.vercel.app/
 [twitter]: https://twitter.com/RustamYusupovv
 [instagram]: https://www.instagram.com/r.ilhomovic/
 [linkedin]: https://www.linkedin.com/in/rustam-yusupov-1b0693226/
 [telegram]: https://t.me/RY00101
+
+<div align="center">
+  <a href="mailto:ryusupov788@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+</div>
