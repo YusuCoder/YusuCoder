@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Yusupov</h1>
+<h1 align="center">Hi 👋, I'm Rustam</h1>
 <h3 align="center">A passionate Software developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
