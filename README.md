@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YusuCoder&label=Profile%20views&color=0e75b6&style=flat" alt="YusuCoder" /> </p>
 
-- 🔭 I’m currently working on **Cub3D project in C**
+- 🔭 I’m currently working on **Learning basics of C++**
 
-- 🌱 I’m currently learning **C/C++ at 42Heilbronn**
+- 🌱 I’m currently learning **C++ at 42Heilbronn**
 
 - 📫 How to reach me **ryusupov788@gmail.com**
 
