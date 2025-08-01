@@ -46,6 +46,10 @@
   <li align="left"><a href="https://github.com/YusuCoder/portfolio" target="_blank">Portfolio Website</a> - My personal website with all my works and projects.</li><br>
 </ul>
 
+<h3 align="left">📊 Most Used Languages:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusuCoder&layout=compact&theme=dark&langs_count=6" alt="YusuCoder's Top Languages" />
+</p>
 
 <div align="center">
   <h3> 😉 Time to some Joke:</h3><br>
