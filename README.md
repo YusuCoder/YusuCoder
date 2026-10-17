@@ -1,84 +1,87 @@
-
-<h1 align="center">Hi 👋, I'm Rustam</h1>
-<h3 align="center">A passionate Software developer from Uzbekistan</h3>
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YusuCoder&label=Profile%20views&color=0e75b6&style=flat" alt="YusuCoder" /> </p>
-
-- 🔭 I’m currently working on **Learning basics of C++**
-
-- 🌱 I’m currently learning **C++ at 42Heilbronn**
-
-- 📫 How to reach me **ryusupov788@gmail.com**
-
-- 🏋️‍♂️ When I'm not coding, you’ll find me training at gym.
-
-- 🧘‍♂️ I'm **disciplined!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/RustamYusupovv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RustamYusupov" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rustam-yusupov-1b0693226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rustam-yusupov-1b0693226" height="30" width="40" /></a>
-<a href="https://www.instagram.com/r.ilhomovic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r.ilhomovic" height="30" width="40" /></a>
-<a href="https://t.me/@RY00101" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" alt="r.ilhomovic" height="35" width="35" /></a>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-
-<h3 align="left">Operating Systems:</h3>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=17843&format=png&color=000000" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" alt="linux" width="40" height="40"/> </a>
-
-<h3 align="left">🔥 My Recent Projects:</h3>
-<ul>
-  <li align="left"><a href="https://github.com/YusuCoder/cub3d" target="_blank">Cub3D Project</a> - A raycasting 3D game engine built in <strong>C</strong>.</li>
-  <li align="left"><a href="https://github.com/YusuCoder/minishell" target="_blank">Mini-Shell Projects</a> - A small version of Shell <strong>C</strong>.</li>
-  <li align="left"><a href="https://github.com/YusuCoder/portfolio" target="_blank">Portfolio Website</a> - My personal website with all my works and projects.</li><br>
-</ul>
-
-<h3 align="left">📊 Most Used Languages:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusuCoder&layout=compact&theme=dark&langs_count=6" alt="YusuCoder's Top Languages" />
-</p>
-
-<div align="center">
-  <h3> 😉 Time to some Joke:</h3><br>
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Random Dev Joke" />
-</div>
-
-<div align="center">
-  ______________________________________________________________________<br>
-</div>
-
-<div align="center">
+<!-- header: animated typing line -->
 <p align="center">
-  <h3 align="center">🏆 GitHub Trophies:</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=YusuCoder&theme=dark" alt="YusuCoder's GitHub Trophies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=Hi,+I'm+Rustam;L2+Support+Engineer+%40+Uzum+Market;42+Heilbronn+student;I+read+databases+for+a+living;Currently+compiling:+C%2B%2B" alt="typing intro" />
 </p>
-</div>
 
-[web]: https://yusucoder.vercel.app/
-[twitter]: https://twitter.com/RustamYusupovv
-[instagram]: https://www.instagram.com/r.ilhomovic/
-[linkedin]: https://www.linkedin.com/in/rustam-yusupov-1b0693226/
-[telegram]: https://t.me/RY00101
+<!-- intro as a psql session -->
+```sql
+-- connecting...
+rustam=# \conninfo
+You are connected to database "life" as user "rustam" on host "tashkent.uz" at port "5432".
 
-<div align="center">
-  <a href="mailto:ryusupov788@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
-</div>
+rustam=# SELECT name, role, school, based_in, status
+rustam-#   FROM developers
+rustam-#  WHERE handle = 'YusuCoder';
+
+  name  |            role            |    school    | based_in |            status
+--------+----------------------------+--------------+----------+------------------------------
+ Rustam | L2 Support Engineer @ Uzum | 42 Heilbronn | Tashkent | learning C++, debugging prod
+(1 row)
+```
+
+<!-- what I actually do, as a query plan -->
+```sql
+rustam=# EXPLAIN ANALYZE SELECT * FROM my_day;
+
+ Nested Loop  (cost=0.00..∞ rows=many)
+   ->  Seq Scan on jsm_tickets          (filter: status = 'open')
+   ->  Index Scan on orders, sellers,
+                     payments, inventory (cond: "why is this broken?")
+   ->  Hash Join on microservices        (found: root cause)
+ Planning Time: 1 coffee
+ Execution Time: until it's fixed
+```
+
+<!-- side projects, shell-style -->
+```console
+minishell$ ls -la ~/projects
+```
+
+| permissions | project | what it is | lang |
+|---|---|---|---|
+| `drwxr-xr-x` | [**cub3d**](https://github.com/YusuCoder/cub3d) | Raycasting 3D engine, Wolfenstein-style | C |
+| `drwxr-xr-x` | [**minishell**](https://github.com/YusuCoder/minishell) | My own tiny bash — pipes, redirects, signals | C |
+| `drwxr-xr-x` | [**portfolio**](https://github.com/YusuCoder/portfolio) | Personal site → [yusucoder.vercel.app](https://yusucoder.vercel.app/) | Web |
+
+<!-- tech stack in one line instead of 10 img tags -->
+```console
+minishell$ which --all tools
+```
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,postgres,mysql,linux,git,firebase,figma,androidstudio&perline=10" alt="stack" />
+</p>
+
+<!-- personality, as error output -->
+```sql
+rustam=# SELECT * FROM schedule WHERE activity = 'rest_day';
+ERROR:  relation "rest_day" does not exist
+HINT:   You probably meant "gym". Discipline is not optional.
+```
+
+<!-- stats -->
+<details>
+<summary><b>📊 SELECT * FROM github_stats;</b></summary>
+<br>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YusuCoder&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusuCoder&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="top langs" />
+</p>
+</details>
+
+<!-- contact on exit -->
+```sql
+rustam=# \q
+-- connection closed. open a new one below 👇
+```
+
+<p align="center">
+  <a href="mailto:ryusupov788@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/RY00101"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rustam-yusupov-1b0693226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/RustamYusupovv"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.instagram.com/r.ilhomovic/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YusuCoder&label=rows+fetched&color=36BCF7&style=flat" alt="profile views" />
+</p>
